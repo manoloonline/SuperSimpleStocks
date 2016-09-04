@@ -37,11 +37,14 @@ Clone git repository:
 ```sh
 git clone https://github.com/manoloonline/SuperSimpleStocks.git
 ```
-      AND
+
+And later:
 
 * Import the project in NetBeans and run
 
+
       OR
+ 
 
 * Execute it in with classic command line:
 
