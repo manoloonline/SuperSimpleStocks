@@ -19,10 +19,10 @@ Provide working source code that will :-
 
 # Design
 ![Technical Design](http://mcflurro.myds.me/puertaycajon/images/SimpleStocksDesing.jpg "Technical Design")
-In the figure can be seen the project has been designed implementing development patterns as Singleton and
+In the figure above it can be seen that the project was implemented development patterns as Singleton and
 a Factory simplified pattern. Also it has been applied the concept of polimorphism in Stocks classes. Another
 alternative could be introduce the Spring core framework to sustitute those patterns by dependency inyection
-and inversion of control in a easy way, but in my opinion, the simplicity of the exercise do not justify the use of a extra
+and inversion of control in a easy way, but in my opinion, the simplicity of the exercise does not justify the use of an extra
 framework. 
 
 # Configuration
@@ -51,7 +51,7 @@ And later:
 
 # Test
 
-Some unitary test has been implemented specially for the most complex class Market
+Some unitary tests have been implemented specially for the most complex class Market
 
 # Author
 
