@@ -46,12 +46,12 @@ And later:
       OR
  
 
-* Execute it in with classic command line:
+* Execute it using with classic command line:
 
 
 # Test
 
-Some unitary test has been implemented specilly for the most complex class Market
+Some unitary test has been implemented specially for the most complex class Market
 
 # Author
 
